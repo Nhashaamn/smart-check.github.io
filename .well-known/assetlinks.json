@@ -3,7 +3,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.example.smart_check",
+      "package_name": "com.example.apps",
       "sha256_cert_fingerprints": [
         "72:d7:a3:36:58:19:e2:66:2b:03:e9:bd:8d:32:6f:c5:29:76:da:5d:27:0f:b5:ca:04:f7:c2:a0:4c:76:40:3b"
       ]
